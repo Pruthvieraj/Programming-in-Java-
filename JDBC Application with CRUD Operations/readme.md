@@ -3,7 +3,7 @@
 A simple Java application that demonstrates database connectivity using JDBC with MySQL.  
 This project performs complete CRUD operations on restaurant and menu data.
 
-📁 Part of the [Programming-in-Java](https://github.com/Kashish811/Programming-in-Java) repository.
+📁 Part of the [Programming-in-Java](https://github.com/Pruthvieraj/Programming-in-Java-) repository.
 
 ---
 
@@ -57,7 +57,7 @@ JDBC Application with CRUD Operations/
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/Kashish811/Programming-in-Java.git
+git clone https://github.com/Pruthvieraj/Programming-in-Java-.git
 ```
 
 **2. Navigate to the project folder:**
