@@ -63,7 +63,7 @@ Employee Management System/
 1. Clone the main repository:
 
 ```
-git clone https://github.com/Kashish811/Programming-in-Java.git
+git clone https://github.com/Pruthvieraj/Programming-in-Java-.git
 ```
 
 2. Navigate to this project folder:
